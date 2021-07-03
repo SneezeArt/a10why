@@ -1,0 +1,24 @@
+[{
+		"_id": "5dd39fcb05dbcc74b2ce100d",
+		"relatedBaikeNames": [],
+		"createdAt": "2019-11-21T06:15:47.763Z",
+		"updatedAt": "2019-11-21T06:15:47.763Z",
+		"userId": "5dd18e2705dbcc74b2ce0f8b",
+		"name": "基因",
+		"content": "基因指控制生物性状的遗传信息，通常由DNA序列来承载，是遗传的基本单位。",
+		"category": "自然科学",
+		"upCount": 7,
+		"downCount": 0,
+		"shareCount": 1,
+		"user": {
+			"_id": "5dd18e2705dbcc74b2ce0f8b",
+			"name": "maskX",
+			"avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/avatar/5dd18e2705dbcc74b2ce0f8b?t=1574014543627",
+			"stateValue": 0,
+			"badges": [],
+			"score": 5,
+			"createdAt": "2019-11-17T18:15:03.209Z",
+			"updatedAt": "2019-11-17T18:15:43.926Z"
+		},
+		"isFavorited": false
+	}]
