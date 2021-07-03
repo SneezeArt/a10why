@@ -1,0 +1,567 @@
+[
+  {
+    "_id": "5dba877d26618d7aec257662",
+    "userId": "000000000000000000000000",
+    "name": "利多",
+    "content": "是刺激股价上涨，对多头有利的因素和消息。如：银根放松，GDP增长加速等。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "利空"
+    ],
+    "upCount": 1,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:29.794Z",
+    "updatedAt": "2019-10-31T07:04:29.794Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877b26618d7aec257623",
+    "userId": "000000000000000000000000",
+    "name": "升高盘",
+    "content": "是指开盘价比前一天收盘价高出许多。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "开低盘"
+    ],
+    "upCount": 1,
+    "downCount": 0,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:27.080Z",
+    "updatedAt": "2019-10-31T07:04:27.080Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877e26618d7aec25766a",
+    "userId": "000000000000000000000000",
+    "name": "吃货",
+    "content": "指庄家在低价时暗中买进股票。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "出货"
+    ],
+    "upCount": 4,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:30.126Z",
+    "updatedAt": "2019-10-31T07:04:30.126Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877d26618d7aec257650",
+    "userId": "000000000000000000000000",
+    "name": "多头市场",
+    "content": "也称牛市，就是股票价格普遍上涨的市场。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "多头",
+      "空头市场"
+    ],
+    "upCount": 4,
+    "downCount": 1,
+    "shareCount": 1,
+    "createdAt": "2019-10-31T07:04:29.026Z",
+    "updatedAt": "2019-10-31T07:04:29.026Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877c26618d7aec257646",
+    "userId": "000000000000000000000000",
+    "name": "套牢",
+    "content": "是指预期股价上涨，不料买进后，股价路下跌；或是预期股价下跌，卖出股票后，股价却一路上涨，前者称多头套牢，后者是空头套牢。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "斩仓"
+    ],
+    "upCount": 3,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:28.625Z",
+    "updatedAt": "2019-10-31T07:04:28.625Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877b26618d7aec257634",
+    "userId": "000000000000000000000000",
+    "name": "庄家",
+    "content": "买的多，多到能影响股价，被称为庄家。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "大户",
+      "散户"
+    ],
+    "upCount": 1,
+    "downCount": 0,
+    "shareCount": 1,
+    "createdAt": "2019-10-31T07:04:27.842Z",
+    "updatedAt": "2019-10-31T07:04:27.842Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba878126618d7aec2576b2",
+    "userId": "000000000000000000000000",
+    "name": "成长股",
+    "content": "指新添的有前途的产业中，利润增长率较高的企业股票。成长股的股价呈不断上涨趋势。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 2,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:33.165Z",
+    "updatedAt": "2019-10-31T07:04:33.165Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877e26618d7aec25766e",
+    "userId": "000000000000000000000000",
+    "name": "抢短线",
+    "content": "预期股价上涨，先低价买进后再在短期内以高价卖出。预期股价下跌，先高价卖出再伺机在短期内以低价再回购。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 3,
+    "downCount": 2,
+    "shareCount": 1,
+    "createdAt": "2019-10-31T07:04:30.269Z",
+    "updatedAt": "2019-10-31T07:04:30.269Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba878026618d7aec2576a0",
+    "userId": "000000000000000000000000",
+    "name": "护盘",
+    "content": "股市低落、人气不足时，机构投资大户大量购进股票，防止股市继续下滑行为。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 1,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:32.335Z",
+    "updatedAt": "2019-10-31T07:04:32.335Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877a26618d7aec25761d",
+    "userId": "000000000000000000000000",
+    "name": "收盘价",
+    "content": "指每天成交中最后一笔股票的价格，也就是收盘价格。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "开盘价"
+    ],
+    "upCount": 1,
+    "downCount": 0,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:26.865Z",
+    "updatedAt": "2019-10-31T07:04:26.865Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877b26618d7aec257638",
+    "userId": "000000000000000000000000",
+    "name": "散户",
+    "content": "买得少，准备随时跑。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "庄家",
+      "大户"
+    ],
+    "upCount": 1,
+    "downCount": 0,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:28.001Z",
+    "updatedAt": "2019-10-31T07:04:28.001Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877d26618d7aec25765a",
+    "userId": "000000000000000000000000",
+    "name": "死多头",
+    "content": "是看好股市前景，买进股票后，如果股价下跌，宁愿放上几年，不赚钱绝不脱手。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 1,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:29.405Z",
+    "updatedAt": "2019-10-31T07:04:29.405Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877c26618d7aec25763e",
+    "userId": "000000000000000000000000",
+    "name": "牛市",
+    "content": "牛市也称多头市场，指市场行情普通看涨，延续时间较长的大升市。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "熊市"
+    ],
+    "upCount": 0,
+    "downCount": 0,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:28.286Z",
+    "updatedAt": "2019-10-31T07:04:28.286Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba878126618d7aec2576b6",
+    "userId": "000000000000000000000000",
+    "name": "稳定股",
+    "content": "指长期被股东持有的股票。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 2,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:33.341Z",
+    "updatedAt": "2019-10-31T07:04:33.341Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877d26618d7aec257656",
+    "userId": "000000000000000000000000",
+    "name": "空翻多",
+    "content": "原本作空头者，改变看法，把卖出的股票买回，有时还买进更多的股票，这种行为称为空翻多。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "多翻空"
+    ],
+    "upCount": 1,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:29.222Z",
+    "updatedAt": "2019-10-31T07:04:29.222Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877f26618d7aec257692",
+    "userId": "000000000000000000000000",
+    "name": "筹码",
+    "content": "投资人手中持有一定数量的股票。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 0,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:31.842Z",
+    "updatedAt": "2019-10-31T07:04:31.842Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877c26618d7aec25763c",
+    "userId": "000000000000000000000000",
+    "name": "股票经纪人",
+    "content": "执行客户命令，买卖证券、商品或其他财产，并为此收取佣金者。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 0,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:28.211Z",
+    "updatedAt": "2019-10-31T07:04:28.211Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877f26618d7aec257696",
+    "userId": "000000000000000000000000",
+    "name": "跳水",
+    "content": "指股价迅速下滑，幅度很大，超过前一交易日的最低价很多。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [
+      "阴跌"
+    ],
+    "upCount": 1,
+    "downCount": 1,
+    "shareCount": 1,
+    "createdAt": "2019-10-31T07:04:31.986Z",
+    "updatedAt": "2019-10-31T07:04:31.986Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba877c26618d7aec257648",
+    "userId": "000000000000000000000000",
+    "name": "零股交易",
+    "content": "不到一个成交单位(1手=100股)的股票，如1股、10股，称为零股。在卖出股票时，可以用零股进行委托。但买进股票时不能以零股进行委托，最小单位是1手，即100股。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 0,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:28.736Z",
+    "updatedAt": "2019-10-31T07:04:28.736Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5dba878026618d7aec2576ae",
+    "userId": "000000000000000000000000",
+    "name": "高息股",
+    "content": "指发行公司派发较多股息的股票。",
+    "category": "金融学-股票",
+    "hotBaikeCase": null,
+    "relatedBaikeNames": [],
+    "upCount": 1,
+    "downCount": 1,
+    "shareCount": 0,
+    "createdAt": "2019-10-31T07:04:33.004Z",
+    "updatedAt": "2019-10-31T07:04:33.004Z",
+    "user": {
+      "_id": "000000000000000000000000",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 10,
+      "badges": [
+        "mcn"
+      ],
+      "createdAt": "2019-09-22T10:13:06.228Z",
+      "updatedAt": "2020-04-08T04:27:32.456Z",
+      "score": 35
+    },
+    "isFavorited": false
+  }
+]
