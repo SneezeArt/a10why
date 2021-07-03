@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "5e2d295fcc18c42fb31ea06f",
+    "relatedBaikeNames": [],
+    "createdAt": "2020-03-03T14:18:31.620Z",
+    "updatedAt": "2020-03-03T14:18:31.620Z",
+    "userId": "5e2c5a56cc18c42fb31ea067",
+    "name": "紧急状态",
+    "content": "是指发生或者即将发生特别重大突发事件，\n需要国家机关行使紧急权力予以控制、消除其社会危害和威胁时，\n有关国家机关按照宪法、法律规定的权限决定并宣布局部地区或者全国实行的一种临时性的严重危急状态。\n\n在紧急状态下，各国的法律都有相应规定，政府可以采取特别措施，来限制社会成员一定的行动，政府还有权强制有关公民有偿提供一定劳务或者财物，社会成员也有义务配合政府紧急状态下采取的措施，来应对和解除突发事件。",
+    "category": "法律学",
+    "upCount": 2,
+    "downCount": 0,
+    "shareCount": 0,
+    "user": {
+      "_id": "5e2c5a56cc18c42fb31ea067",
+      "name": "名词解释",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 0,
+      "badges": [],
+      "score": 6,
+      "createdAt": "2020-01-25T15:10:14.383Z",
+      "updatedAt": "2020-01-25T15:12:04.487Z"
+    },
+    "isFavorited": false
+  },
+  {
+    "_id": "5db7f274f121e61d874f38bb",
+    "relatedBaikeNames": [],
+    "createdAt": "2019-10-29T11:20:58.819Z",
+    "updatedAt": "2019-10-29T11:20:58.819Z",
+    "userId": "5db7f1f5f121e61d874f38ba",
+    "name": "起诉书和起诉状",
+    "content": "简单区分就是人民检察院写的那个叫起诉书，普通律师写的叫起诉状。",
+    "category": "法律学",
+    "upCount": 12,
+    "downCount": 1,
+    "shareCount": 1,
+    "user": {
+      "_id": "5db7f1f5f121e61d874f38ba",
+      "name": "一句话百科",
+      "avatar": "https://onebaike.oss-cn-beijing.aliyuncs.com/logo.png",
+      "stateValue": 0,
+      "badges": [],
+      "score": 5,
+      "createdAt": "2019-10-29T08:01:57.338Z",
+      "updatedAt": "2019-10-29T08:01:57.338Z"
+    },
+    "isFavorited": false
+  }
+]
