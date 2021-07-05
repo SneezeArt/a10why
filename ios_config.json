@@ -1,0 +1,105 @@
+{
+  "version": "1.0.0",
+  "update": {
+    "version": "1.0",
+    "message": "修复了一些问题"
+  },
+  "appId": "1574172530",
+  "review" : "1",
+  "drawer": {
+    "txt": "真理就是具备这样的力量，你越是想要攻击它，你的攻击就愈加充实了和证明了它。\n伽利略",
+    "bg": "https://www.torontostm.com/wp-content/uploads/2018/06/Bible-with-Pen-750x450.jpg"
+  },
+  "yitu": "https://sneezeart.github.io/sneeze/yitu.json",
+  "founds": [
+    {
+      "title": "首页",
+      "items": [
+        {
+          "title": "编辑推荐",
+          "href": "https://10why.net/"
+        }
+      ]
+    },
+    {
+      "title": "科学世界",
+      "items": [
+        {
+          "title": "数理化篇",
+          "href": "https://10why.net/category/maths/"
+        },
+        {
+          "title": "科技篇",
+          "href": "https://10why.net/category/tech/"
+        },
+        {
+          "title": "天文篇",
+          "href": "https://10why.net/category/astronomy/"
+        },
+        {
+          "title": "地理篇",
+          "href": "https://10why.net/category/geography/"
+        }
+      ]
+    },
+    {
+      "title": "生物王国",
+      "items": [
+        {
+          "title": "人体篇",
+          "href": "https://10why.net/category/human/"
+        },
+        {
+          "title": "动物篇",
+          "href": "https://10why.net/category/animal/"
+        },
+        {
+          "title": "植物篇",
+          "href": "https://10why.net/category/plant/"
+        },
+        {
+          "title": "健康篇",
+          "href": "https://10why.net/category/healthy/"
+        }
+      ]
+    },
+    {
+      "title": "国际博览",
+      "items": [
+        {
+          "title": "交通篇",
+          "href": "https://10why.net/category/traffic/"
+        },
+        {
+          "title": "国家篇",
+          "href": "https://10why.net/category/country/"
+        },
+        {
+          "title": "军事篇",
+          "href": "https://10why.net/category/military/"
+        },
+        {
+          "title": "体育篇",
+          "href": "https://10why.net/category/sport/"
+        }
+      ]
+    },
+    {
+      "title": "人文广场",
+      "items": [
+        {
+          "title": "文化篇",
+          "href": "https://10why.net/category/culture/"
+        },
+        {
+          "title": "艺术篇",
+          "href": "https://10why.net/category/art/"
+        },
+        {
+          "title": "历史篇",
+          "href": "https://10why.net/category/history/"
+        }
+      ]
+    }
+  ]
+}
