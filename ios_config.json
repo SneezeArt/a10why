@@ -4,10 +4,11 @@
     "version": "1.0",
     "message": "修复了一些问题"
   },
-  "appId": "1574172530",
-  "review" : "1",
+  "appId": "1575211881",
+  "review": "1",
   "drawer": {
-    "txt": "真理就是具备这样的力量，你越是想要攻击它，你的攻击就愈加充实了和证明了它。\n伽利略",
+    "txt": "真理就是具备这样的力量，你越是想要攻击它，你的攻击就愈加充实了和证明了它。",
+    "author": "伽利略",
     "bg": "https://www.torontostm.com/wp-content/uploads/2018/06/Bible-with-Pen-750x450.jpg"
   },
   "yitu": "https://sneezeart.github.io/sneeze/yitu.json",
@@ -100,6 +101,56 @@
           "href": "https://10why.net/category/history/"
         }
       ]
+    }
+  ],
+  "baikes": [
+    {
+      "title": "推荐",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/all"
+    },
+    {
+      "title": "互联网",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/internet"
+    },
+    {
+      "title": "网络流行",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/popular"
+    },
+    {
+      "title": "心理学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/psychology"
+    },
+    {
+      "title": "经济学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/economics"
+    },
+    {
+      "title": "法律学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/jurisprudence"
+    },
+    {
+      "title": "金融学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/finance"
+    },
+    {
+      "title": "自然科学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/science"
+    },
+    {
+      "title": "政治学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/political"
+    },
+    {
+      "title": "历史学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/history"
+    },
+    {
+      "title": "社会学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/society"
+    },
+    {
+      "title": "哲学",
+      "href": "https://jp.rsscc.com/config/ios/testicons/baike/philosophy"
     }
   ]
 }
